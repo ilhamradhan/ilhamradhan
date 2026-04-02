@@ -1,8 +1,14 @@
 # Hey, I'm Ilham 👋
 
-Data engineer based in Berlin. I spent 4+ years as a BI Analyst — building ETL pipelines, connecting SAP, Salesforce, and SQL sources, and getting dashboards in front of Finance and Sales teams. Last year I went deeper on the engineering side through a bootcamp at Le Wagon.
+Data engineer based in Berlin. I spent 4 years in BI making sense of messy SAP, 
+Salesforce, and SQL data — then decided I'd rather fix problems upstream than 
+explain them downstream.
 
-My capstone: a Financial Portfolio Analysis Platform processing decades of daily stock data with Airflow, dbt, BigQuery, and Streamlit. End-to-end, running in GCP.
+Now I build pipelines that hopefully don't break on the weekends. Clean transformations in dbt, 
+workflows in Airflow, data that actually makes sense by the time it lands in BigQuery.
+
+Previously: dashboards. Lots of dashboards. (Tableau, Power BI, CRM Analytics — 
+I know what good output looks like, which is why I care about the input.)
 
 ---
 
