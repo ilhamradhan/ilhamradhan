@@ -1,13 +1,13 @@
 # Hey, I'm Ilham 👋
 
 Data engineer based in Berlin. I spent 4 years in BI making sense of messy SAP, 
-Salesforce, and SQL data — then decided I'd rather fix problems upstream than 
+Salesforce, and SQL data, then decided I'd rather fix problems upstream than 
 explain them downstream.
 
 Now I build pipelines that hopefully don't break on the weekends. Clean transformations in dbt, 
 workflows in Airflow, data that actually makes sense by the time it lands in BigQuery.
 
-Previously: dashboards. Lots of dashboards. (Tableau, Power BI, CRM Analytics — 
+Previously: dashboards. Lots of dashboards. (Tableau, Power BI, CRM Analytics. 
 I know what good output looks like, which is why I care about the input.)
 
 ---
@@ -34,8 +34,3 @@ I know what good output looks like, which is why I care about the input.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilrama)
 
 ---
-
-## Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=ilhamradhan&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamradhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
